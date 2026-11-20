@@ -1,0 +1,25 @@
+{
+  "manifestVersion": 1,
+  "packs": {
+    "names_v2": {
+      "schemaVersion": 2,
+      "dataVersion": "2026-11-20",
+      "url": "https://github.com/yaku-project/resources/releases/download/assets-2026-11/names-v2.db.gz",
+      "compression": "gzip",
+      "downloadBytes": 29140632,
+      "uncompressedBytes": 71827456,
+      "downloadSha256": "fac1d7821c5313466a34cdd54b7ffd1451770680dde4494adb274f83dd01b8b0",
+      "uncompressedSha256": "43428694556080f9cb0aa8456c93e8b1db99b5ed0735aa5acb4820b99d6d41c6"
+    },
+    "audio_v1": {
+      "schemaVersion": 1,
+      "dataVersion": "2026-11-20",
+      "url": "https://github.com/yaku-project/resources/releases/download/assets-2026-11/audio-v1.db",
+      "compression": "none",
+      "downloadBytes": 53506048,
+      "uncompressedBytes": 53506048,
+      "downloadSha256": "8cc189a67e0f77300bc24ccd7b5b76fa0a22d8b256d99fc819aa914d4da064a5",
+      "uncompressedSha256": "8cc189a67e0f77300bc24ccd7b5b76fa0a22d8b256d99fc819aa914d4da064a5"
+    }
+  }
+}
