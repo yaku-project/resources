@@ -1,6 +1,6 @@
 # Yaku Optional Resources
 
-Static downloadable databases for the [Yaku](https://play.google.com/store/apps/details?id=com.yaku.jiten) Android app.
+Static downloadable databases and on-device OCR model packs for the [Yaku](https://play.google.com/store/apps/details?id=com.yaku.jiten) Android app.
 
 ## Licenses & Attribution
 
@@ -13,3 +13,11 @@ Static downloadable databases for the [Yaku](https://play.google.com/store/apps/
   Kanji pronunciation audio data provided by Kanji alive (https://kanjialive.com), created at the University of Chicago, licensed under CC
   BY 4.0.
   Source: https://github.com/kanjialive/kanji-data-media
+
+- **`ocr_core_v1.zip` — [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0)**
+  PP-OCRv5 Mobile text detection, orientation classification, and recognition ONNX models converted by RapidOCR from PaddleOCR, licensed under Apache-2.0.
+  Sources: https://github.com/PaddlePaddle/PaddleOCR, https://github.com/RapidAI/RapidOCR
+
+- **`ocr_manga_v1.zip` — [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0)**
+  Quantized INT8 ONNX conversion of `manga-ocr` (`kha-white/manga-ocr-base`) for vertical and furigana-heavy Japanese text, licensed under Apache-2.0.
+  Sources: https://github.com/kha-white/manga-ocr, https://huggingface.co/onnx-community/manga-ocr-base-ONNX
