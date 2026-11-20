@@ -20,6 +20,28 @@
       "uncompressedBytes": 53506048,
       "downloadSha256": "8cc189a67e0f77300bc24ccd7b5b76fa0a22d8b256d99fc819aa914d4da064a5",
       "uncompressedSha256": "8cc189a67e0f77300bc24ccd7b5b76fa0a22d8b256d99fc819aa914d4da064a5"
+    },
+    "ocr_core_v1": {
+      "schemaVersion": 1,
+      "dataVersion": "1",
+      "url": "https://github.com/yaku-project/resources/releases/download/ocr-packs-v1/ocr_core_v1.zip",
+      "compression": "zip",
+      "format": "directory_archive",
+      "downloadBytes": 19206375,
+      "uncompressedBytes": 22110647,
+      "downloadSha256": "86c185433b5507443a57244fbdedc79cf2303e41060cbbc7b6c5c5e1a4219eda",
+      "uncompressedSha256": "7c3cdb741262b6f69783655cec07e8485e26c2d074b8878d9fc18a809bce299e"
+    },
+    "ocr_manga_v1": {
+      "schemaVersion": 1,
+      "dataVersion": "1",
+      "url": "https://github.com/yaku-project/resources/releases/download/ocr-packs-v1/ocr_manga_v1.zip",
+      "compression": "zip",
+      "format": "directory_archive",
+      "downloadBytes": 95321737,
+      "uncompressedBytes": 116619963,
+      "downloadSha256": "7a911491064b52a51f76a829d79fc6cefa43a53d2d20599bae7ce7e6de7c598d",
+      "uncompressedSha256": "d3295114c40a3f0026700d0b6695d6e2c1f29a456bc10672f64db3fe8790943a"
     }
   }
 }
